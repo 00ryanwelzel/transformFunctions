@@ -8,7 +8,7 @@ Implements a curve-based interpolation system for color and UI using SDL.
 
 Features:
 - Unified interpolation function for int, float, Uint8, and SDL_Color
-- Modular easing curves: sigmoid, sine, easeIn/OutQuad, easeIn/OutCubic, and linear
+- Modular easing curves: sigmoid, sine, easeIn/OutQuad, easeIn/OutCubic, and ofc linear
 - Customizable curveFunction interface to plug in new transition / type behaviors
 
 
